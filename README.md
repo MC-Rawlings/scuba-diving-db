@@ -37,5 +37,12 @@ A Dive is always accompanied by a company Employee, called a Divemaster, and two
 - [Postgresql](https://www.postgresql.org/)
 - [DBeaver](https://dbeaver.io/)
 
---- 
+---
 
+## Conceptual Model
+
+![conceptual business model](/images/conceptual-model.png)
+
+## Database Diagram
+
+![database diagram model](/images/scuba-db.png)
