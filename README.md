@@ -1,9 +1,8 @@
 # Scuba Diving DB
----
 
-<small>A DB to aid business operations</small>
+A DB to aid business operations
 
-<details open>
+<details>
   <summary>Business case</summary>
   <br>
 
@@ -19,7 +18,7 @@ A Dive is always accompanied by a company Employee, called a Divemaster, and two
 
 </details>
 
-<details open>
+<details>
   <summary>Instructions</summary>
   <br>
   
