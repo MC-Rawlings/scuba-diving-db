@@ -41,8 +41,16 @@ A Dive is always accompanied by a company Employee, called a Divemaster, and two
 
 ## Conceptual Model
 
-![conceptual business model](/images/conceptual-model.png)
+<!-- ![conceptual business model](/images/conceptual-model.png) -->
 
 ## Database Diagram
 
-![database diagram model](/images/scuba-db.png)
+<!-- ![database diagram model](/images/scuba-db.png) -->
+
+---
+
+### Retrospect
+- Coming up with use cases before designing would have helped me determine the aim of this DB
+
+### Challenges
+- With the vast amount of functionality available, knowing what to use and why is difficult (80/20)
