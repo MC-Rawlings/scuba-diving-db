@@ -35,3 +35,23 @@ CREATE TABLE location (
   depth INT NOT NULL, -- meters
   description TEXT
 );
+
+CREATE TABLE dive (
+  dive_id SERIAL PRIMARY KEY,
+  location_id INT REFERENCES location NOT NULL,
+  divemater INT NOT NULL,
+  time VARCHAR(2) NOT NULL
+);
+
+CREATE TABLE cabin (
+  cabin_id SERIAL PRIMARY KEY,
+  name VARCHAR(50) NOT NULL,
+  daily_rate SMALLINT NOT NULL,
+  bedrooms SMALLINT NOT NULL
+);
+
+CREATE TABLE holiday_party_cabin (
+  party_id INT REFERENCES holiday_maker,
+  cabin_id INT REFERENCES cabin,
+  PRIMARY KEY(party_id, cabin_id)
+);
