@@ -1,8 +1,9 @@
 # Scuba Diving DB
+---
 
 <small>A DB to aid business operations</small>
 
-<details>
+<details open>
   <summary>Business case</summary>
   <br>
 
@@ -18,7 +19,7 @@ A Dive is always accompanied by a company Employee, called a Divemaster, and two
 
 </details>
 
-<details>
+<details open>
   <summary>Instructions</summary>
   <br>
   
@@ -27,3 +28,15 @@ A Dive is always accompanied by a company Employee, called a Divemaster, and two
   3. Create the schema for postgres and create the database
     
 </details>
+
+---
+
+### Technologies/Tools
+
+- [diagrams.net](https://www.diagrams.net/)
+- [DB Diagram](https://dbdiagram.io/home)
+- [Postgresql](https://www.postgresql.org/)
+- [DBeaver](https://dbeaver.io/)
+
+--- 
+
