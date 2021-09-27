@@ -52,5 +52,12 @@ A Dive is always accompanied by a company Employee, called a Divemaster, and two
 ### Retrospect
 - Coming up with use cases before designing would have helped me determine the aim of this DB
 
-### Challenges
+### Challenges/Questions
 - With the vast amount of functionality available, knowing what to use and why is difficult (80/20)
+- Allow access to multiple users with different permissions
+- Share DB between environments
+
+### Key Takeaways 
+- Atomic design 
+- Entity relationships: 1:1, 1:N, M:N
+- Use of conceptual & database modelling 
