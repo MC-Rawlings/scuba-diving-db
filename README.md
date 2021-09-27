@@ -41,11 +41,11 @@ A Dive is always accompanied by a company Employee, called a Divemaster, and two
 
 ## Conceptual Model
 
-<!-- ![conceptual business model](/images/conceptual-model.png) -->
+![conceptual business model](/images/conceptual-model.png)
 
 ## Database Diagram
 
-<!-- ![database diagram model](/images/scuba-db.png) -->
+![database diagram model](/images/scuba-db.png)
 
 ---
 
